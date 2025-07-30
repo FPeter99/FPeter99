@@ -43,10 +43,4 @@ I am a high school student studying software development, with the goal of estab
 <img src="https://camo.githubusercontent.com/335c0d0755b0a6a020552f835083409f7e8ef4ea7679cbf214b53ecf9c8f217f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4650657465723939266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" alt="GitHub Status" />
 
 
-## 📱 Contact Me  
 
-<a target="_blank" href="mailto:forgacs.peter08@gmail.com@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>  
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500" style="float: right;"/>
