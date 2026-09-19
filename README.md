@@ -38,6 +38,9 @@ I am a high school student studying software development, aiming to become a sof
 
 
 ## 🛠️ Frameworks & Tools  
+<a target="_blank" href="https://leetcode.com/u/ForgacsPeter/">
+  <img src="LeetCode_Logo_1.png" title="LeetCode" alt="LeetCode" width="40" height="40" style="vertical-align: middle;"/>
+</a>&nbsp;
 <a target="_blank" href="https://visualstudio.microsoft.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="vertical-align: middle;"/>
 </a>&nbsp;
