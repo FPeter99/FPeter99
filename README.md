@@ -58,9 +58,12 @@ I am a high school student studying software development, aiming to become a sof
   <img src="esp_logo.png" title="ESP32" alt="ESP32" width="40" height="40" style="vertical-align: middle;"/>
 </a>&nbsp;
 
-## 🔥 GitHub Stats
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=FPeter99&layout=compact&langs_count=10&theme=vue-dark)
+## 🔥 Stats
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=FPeter99&layout=compact&langs_count=10&theme=vue-dark" width="400" />
+  <img src="https://leetcard.jacoblin.cool/ForgacsPeter?theme=dark&font=IBM%20Plex%20Sans&colors=%23273849%2C%23161B22%2C%23E6EDF3%2C%23655E6C%2C%2300FCFF%2C%231AFF13%2C%23F8FF35%2C%23FF0016&ext=heatmap" width="450" />
+</div>
 
 
 
